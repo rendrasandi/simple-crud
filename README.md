@@ -1,2 +1,4 @@
 # simple-crud
-Extremely Simple CRUD
+
+System requirements :
+1. Menggunakan 
