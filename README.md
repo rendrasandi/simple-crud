@@ -15,4 +15,4 @@ Note :
 The vendor file, only I upload in Google Drive because that file have soo many file inside it.
 so I can't upload all that files into Github bacause Github give limitation upload only 100 files every commit,
 and the vendor file have arround 8000 files.
-Actually, it's can do uploading in Github but It will drain the time.
+Actually, it's can do uploading in Github but It will draining the time.
